@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/../spring-cloud-msvc/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-cloud-msvc/libs-common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-msvc/users-serice/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-msvc/oauth-service/pom.xml" />
       </list>
     </option>
   </component>
